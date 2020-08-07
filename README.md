@@ -14,7 +14,7 @@ For example:
 Note: Ignore spaces and capitalization. So "d go" is an anagram of "God" and "dog" and "o d g".
 ```
 ## Solution
-[Anagram Solution](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day1.ipynb)
+[Anagram Solution](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%201%20-%20Anagram.ipynb)
 
 ## Day 2
 
@@ -32,7 +32,7 @@ Given:
 'here space'
 ```
 ## Solution
-[Reverse string solution](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day2.ipynb)
+[Reverse string solution](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%202%20-%20Sentence%20Reversing.ipynb)
 
 ## Day 3
 
@@ -48,7 +48,7 @@ finder([1,2,3,4,5,6,7],[3,7,2,1,4,6]) Output:
 5 is the missing number
 ```
 ## Solution
-[Finding missins element](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day3.ipynb)
+[Finding missins element](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%203%20-%20Finding%20the%20missing%20element.ipynb)
 
 ## Day 4
 
@@ -56,7 +56,7 @@ finder([1,2,3,4,5,6,7],[3,7,2,1,4,6]) Output:
 Given an array of integers (positive and negative) find the largest continuous sum.
 ```
 ## Solution
-[Max Subarray Sum](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day4.ipynb)
+[Max Subarray Sum](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%204%20-%20Largest%20Continuous%20Sum.ipynb)
 
 ## Day 5
 
@@ -66,7 +66,7 @@ Given a string in the form 'AAAABBBBCCCCCDDEEEE' compress it to become 'A4B4C5D2
 The function should also be case sensitive, so that a string 'AAAaaa' returns 'A3a3'.
 ```
 ## Solution
-[String Compression](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day5.ipynb)
+[String Compression](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%205%20-%20String%20Compression.ipynb)
 
 ## Day 6
 
@@ -74,4 +74,16 @@ The function should also be case sensitive, so that a string 'AAAaaa' returns 'A
 Given a string,determine if it is compreised of all unique characters. For example, the string 'abcde' has all unique characters and should return True. The string 'aabcde' contains duplicate characters and should return false.
 ```
 ## Solution
-[Unique Characters in String Problem](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day6.ipynb)
+[Unique Characters in String Problem](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%206%20-%20Unique%20Characters%20in%20String.ipynb)
+
+
+## Day 7
+
+```
+Data Structure Implementation:
+1 Stack
+2 Queue
+3 Deque
+```
+## Solution
+[Data Structure Implementation](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/Day%207%20-%20Stack%2C%20Queue%2C%20and%20Dequeue%20Implementation.ipynb)
