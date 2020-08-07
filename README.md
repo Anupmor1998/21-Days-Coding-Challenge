@@ -67,3 +67,11 @@ The function should also be case sensitive, so that a string 'AAAaaa' returns 'A
 ```
 ## Solution
 [String Compression](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day5.ipynb)
+
+## Day 6
+
+```
+Given a string,determine if it is compreised of all unique characters. For example, the string 'abcde' has all unique characters and should return True. The string 'aabcde' contains duplicate characters and should return false.
+```
+## Solution
+[Unique Characters in String Problem](https://github.com/Anupmor1998/21-Days-Coding-Challenge/blob/master/day6.ipynb)
